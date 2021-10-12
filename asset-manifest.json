@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/reactwebstore/static/js/main.26d5f38f.chunk.js",
+    "main.js.map": "/reactwebstore/static/js/main.26d5f38f.chunk.js.map",
+    "runtime-main.js": "/reactwebstore/static/js/runtime-main.f311e428.js",
+    "runtime-main.js.map": "/reactwebstore/static/js/runtime-main.f311e428.js.map",
+    "static/js/2.9076d69e.chunk.js": "/reactwebstore/static/js/2.9076d69e.chunk.js",
+    "static/js/2.9076d69e.chunk.js.map": "/reactwebstore/static/js/2.9076d69e.chunk.js.map",
+    "static/js/3.fc6c9b47.chunk.js": "/reactwebstore/static/js/3.fc6c9b47.chunk.js",
+    "static/js/3.fc6c9b47.chunk.js.map": "/reactwebstore/static/js/3.fc6c9b47.chunk.js.map",
+    "index.html": "/reactwebstore/index.html",
+    "static/js/2.9076d69e.chunk.js.LICENSE.txt": "/reactwebstore/static/js/2.9076d69e.chunk.js.LICENSE.txt",
+    "static/media/forest.5dc0bcce.jpg": "/reactwebstore/static/media/forest.5dc0bcce.jpg",
+    "static/media/jacket.fd8a568d.jpg": "/reactwebstore/static/media/jacket.fd8a568d.jpg",
+    "static/media/jeans.760e17ed.jpg": "/reactwebstore/static/media/jeans.760e17ed.jpg",
+    "static/media/sale.14b086c3.jpg": "/reactwebstore/static/media/sale.14b086c3.jpg",
+    "static/media/tee.db263d8e.jpg": "/reactwebstore/static/media/tee.db263d8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f311e428.js",
+    "static/js/2.9076d69e.chunk.js",
+    "static/js/main.26d5f38f.chunk.js"
+  ]
+}
